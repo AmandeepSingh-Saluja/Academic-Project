@@ -30,6 +30,6 @@ Built using Python's Tkinter library for the GUI and SQLite for database managem
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-##⭐️ Show your support
+## ⭐️ Show your support
 Give a ⭐️ if you like this project!
 
