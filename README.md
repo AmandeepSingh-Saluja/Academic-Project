@@ -24,11 +24,11 @@ Built using Python's Tkinter library for the GUI and SQLite for database managem
 - **Restaurant Management**: Enter customer details, select items from the menu, and print bills.
 
 ## Screenshots
-![Welcome Page]!(https://github.com/user-attachments/assets/1602948f-c0cf-425d-9367-3fa7ee6e417f)
-![Login Page]!(https://github.com/user-attachments/assets/106edacf-55de-44a5-b11f-4f39926f87d5),(https://github.com/user-attachments/assets/eba98fd2-b789-49b1-af8f-4f865c5039af)
-![Inventory Management]!(https://github.com/user-attachments/assets/08981205-6101-43ad-93c0-893f13d716b5)
-![Billing Management] !(https://github.com/user-attachments/assets/c63d1f49-b806-4d3d-9edc-664b9b73e8f2)
-![Logout]!(https://github.com/user-attachments/assets/91239420-b397-437a-bc4e-064bb9c71208)
+![Welcome Page]![Image](https://github.com/user-attachments/assets/1602948f-c0cf-425d-9367-3fa7ee6e417f)
+![Login Page]![Image](https://github.com/user-attachments/assets/106edacf-55de-44a5-b11f-4f39926f87d5),![Image](https://github.com/user-attachments/assets/eba98fd2-b789-49b1-af8f-4f865c5039af)
+![Inventory Management]![Image](https://github.com/user-attachments/assets/08981205-6101-43ad-93c0-893f13d716b5)
+![Billing Management]![Image](https://github.com/user-attachments/assets/c63d1f49-b806-4d3d-9edc-664b9b73e8f2)
+![Logout]![Image](https://github.com/user-attachments/assets/91239420-b397-437a-bc4e-064bb9c71208)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
