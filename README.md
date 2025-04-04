@@ -25,6 +25,8 @@ Built using Python's Tkinter library for the GUI and SQLite for database managem
 
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/1602948f-c0cf-425d-9367-3fa7ee6e417f)
+![Image](https://github.com/user-attachments/assets/6ef2ad20-9501-45a7-bc30-3db4053ff327)
+![Image](https://github.com/user-attachments/assets/d0846905-d389-4cec-856f-b6656c3710ef)
 
 
 ## Contributing
