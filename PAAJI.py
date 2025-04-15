@@ -50,7 +50,7 @@ class MainApplication:
     def show_welcome_page(self):                      # Create a welcome frame
         self.welcome_frame = tk.Frame(self.root, bg="#F0F2F5", padx=20, pady=20)
         self.welcome_frame.pack(fill="both", expand=True)
-        self.logo_image = tk.PhotoImage(file="C:/Users/admin/Downloads/AMANDEEP/Python/sem 6/logo paaji's.png")  # Load the logo image
+        self.logo_image = tk.PhotoImage(file="logo paaji's.png")  # Load the logo image
         logo_label = tk.Label(self.welcome_frame, image=self.logo_image, bg="#F0F2F5")
         logo_label.pack(side=tk.TOP, pady=10)    # Position the logo at the top center
         tk.Label(self.welcome_frame, text="Welcome to Paaji's Management System", font=("Helvetica", 26), bg="#F0F2F5", fg="#3b5998").pack(pady=20)
